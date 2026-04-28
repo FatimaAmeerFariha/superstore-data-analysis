@@ -1,8 +1,14 @@
 # Superstore Data Analysis
 
 ## Student Info
-Name: Your Name
-ID: Your ID
+Name: Fatima Ameer Fariha
+ID: 22-49500-3
+
+Name: Tanjina Akter Rima
+ID: 22-49583-3
+
+Name: Tasmeem Jannat Prome
+ID: 22-49601-3
 
 ## Dataset
 Superstore Dataset (Kaggle)
