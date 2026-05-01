@@ -43,13 +43,6 @@ This project analyzes the Superstore dataset to explore sales performance, profi
 * Sales and profit have a weak positive relationship
 
 ---
-## Project Structure
-
-```
-├── README.md          # Project documentation
-├── analysis.ipynb     # Jupyter Notebook with full analysis
-├── dataset.csv        # Superstore dataset
-```
 
 ---
 ## **How to Run**
