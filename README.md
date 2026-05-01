@@ -49,6 +49,7 @@ This project analyzes the Superstore dataset to explore sales performance, profi
 ├── README.md          # Project documentation
 ├── analysis.ipynb     # Jupyter Notebook with full analysis
 ├── dataset.csv        # Superstore dataset
+├── report.pdf         # Project report
 ```
 
 ---
