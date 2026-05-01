@@ -1,27 +1,57 @@
-# Superstore Data Analysis
+# **Superstore Sales and Profit Analysis**
 
-## Student Info
-Name: Fatima Ameer Fariha
-ID: 22-49500-3
+## **Authors**
 
-Name: Tanjina Akter Rima
-ID: 22-49583-3
+* Fatima Ameer Fariha (22-49500-3)
+* Tanjina Akter Rima (22-49583-3)
+* Tasmeem Jannat Prome (22-49601-3)
 
-Name: Tasmeem Jannat Prome
-ID: 22-49601-3
+---
 
-## Dataset
-Superstore Dataset (Kaggle)
+## **Dataset**
 
-## Tools Used
-- Pandas
-- NumPy
-- Matplotlib
+* Superstore Dataset (Kaggle)
 
-## Questions
-1. Which category generates highest sales?
-2. What is relationship between sales and profit?
-3. Which region performs best?
+---
 
-## How to Run
-Open analysis.ipynb and run all cells.
+## **Tools Used**
+
+* Pandas
+* NumPy
+* Matplotlib
+
+---
+
+## **Project Description**
+
+This project analyzes the Superstore dataset to explore sales performance, profitability, and regional trends. The goal is to identify key business insights using data analysis and visualization techniques.
+
+---
+
+## **Research Questions**
+
+* Which category generates the highest sales?
+* What is the relationship between sales and profit?
+* Which region performs the best?
+
+---
+
+## **Key Insights**
+
+* The Technology category generates the highest sales
+* The South region shows the lowest performance
+* Sales and profit have a weak positive relationship
+
+---
+
+## **How to Run**
+
+1. Open `analysis.ipynb`
+2. Run all cells sequentially
+
+---
+
+## **Report**
+
+For detailed analysis, methodology, and visualizations, refer to the full project report.
+
